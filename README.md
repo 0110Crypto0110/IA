@@ -20,7 +20,6 @@ O objetivo deste trabalho é comparar o desempenho de 5 algoritmos de classifica
 
 ## Estrutura do Repositório
 *   `Entrega_Final_IA.ipynb`: Notebook principal contendo toda a execução do código (preparação dos dados, treinamento, avaliação, ranking e exportação).
-*   `artefatos_projeto2.zip`: Arquivo compactado contendo:
     *   `resultados_finais_projeto2.csv` (Tabela de métricas consolidadas)
     *   `grafico_comparacao_modelos.png` (Gráfico de barras comparativo)
     *   `grafico_boxplot_folds.png` (Boxplot da distribuição por fold)
